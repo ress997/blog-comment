@@ -1,2 +1,2 @@
 # Blog-Comment
-To use utteranc on my blog
+To use [utterances](https://utteranc.es/) on my [blog](https://tech.39.gy/)
